@@ -1,3 +1,4 @@
+
 #a {
 	font-size: 60;
 }
@@ -21,7 +22,7 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
-	
+
 }
 
 li {
@@ -32,7 +33,7 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding:  16px;
+	padding: 16px;
 	text-decoration: none;
 }
 
@@ -45,8 +46,8 @@ li {
 	border-right: 1px solid #bbb;
 	padding-left: 15px;
 	padding-right: 15px;
-	padding-bottom:1px;
-	
+	padding-bottom: 1px;
+
 }
 
 li:last-child {
