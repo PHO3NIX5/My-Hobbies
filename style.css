@@ -1,4 +1,10 @@
-
+.f:hover{
+	transform: scale(+0.9);
+}
+img{
+	width: 700px;
+	height: 600px;
+}
 #a {
 	font-size: 60;
 }
